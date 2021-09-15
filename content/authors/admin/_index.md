@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'tianchiye@hust.edu.cn'
+  link: tianchiye@hust.edu.cn
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/yetianchi
