@@ -42,7 +42,7 @@ social:
 
 - icon: weixin
   icon_pack: fab
-  link: uploads/weixin.jpg
+  link: static/uploads/weixin.jpg
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/yetianchi
