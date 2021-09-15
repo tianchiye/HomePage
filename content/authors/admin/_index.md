@@ -19,6 +19,7 @@ bio: My research focus on analog ICs, especially drivers of silicon photonics.
 # Interests to show in About widget
 interests:
 - Analog ICs 
+<<<<<<< HEAD
 - Power management ICs 
 - Silicon Photonic Drivers
 - Optical Phased Array Crivers
@@ -26,6 +27,14 @@ interests:
 # Education to show in About widget
 education:
   courses:
+=======
+- Power management ICs
+- Silicon Photonics Drivers
+- Optical Phased Array Drivers
+
+# Education to show in About widget
+education:
+>>>>>>> d971ffde868400435d7c1a807a1971f4585d2bfb
   - course: B.E. in Integrated Circuits Design and Integrated System
     institution: Huazhong University of Science and Technology
     year: 2022
@@ -35,9 +44,15 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
+<<<<<<< HEAD
 - icon: envelope
   icon_pack: fas
   link: mailto:tianchiye@hust.edu.cn
+=======
+- icon: weixin
+  icon_pack: fab
+  link: uploads/weixin.jpg
+>>>>>>> d971ffde868400435d7c1a807a1971f4585d2bfb
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/yetianchi
@@ -47,9 +62,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/tianchiye
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+- icon: envelop
+  icon_pack: fas
+  link: mailto:tianchiye@hust.edu.cn
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
