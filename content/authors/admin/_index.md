@@ -14,26 +14,21 @@ organizations:
   url: https://www.hust.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research focus on analog ICs, especially drivers of silicon photonics.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
+- Analog ICs 
+- Power management ICs 
+- Silicon Photonic Drivers
+- Optical Phased Array Crivers
+  
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: B.E. in Integrated Circuits Design and Integrated System
+    institution: Huazhong University of Science and Technology
+    year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,7 +37,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: tianchiye@hust.edu.cn
+  link: mailto:tianchiye@hust.edu.cn
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/yetianchi
