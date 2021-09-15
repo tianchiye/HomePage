@@ -18,9 +18,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Analog ICs 
+- Power management ICs
+- Silicon Photonics Drivers
+- Optical Phased Array Drivers
 
 # Education to show in About widget
 education:
@@ -40,9 +41,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: tianchiye@hust.edu.cn
+- icon: weixin
+  icon_pack: fab
+  link: uploads/weixin.jpg
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/yetianchi
