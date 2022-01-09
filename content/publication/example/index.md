@@ -1,23 +1,23 @@
 ---
-title: "An example conference paper"
+title: "Optical Phased Array with Reduced Phase Tuning Resolution"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
+- Min Tan
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "First author"
+- "Corresponding author"
 
-date: "2013-07-01T00:00:00Z"
+date: "2012-12-24"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2012-12-24"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,15 +26,14 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *2021 IEEE International Conference on Integrated Technologies and Applications*
+publication_short: In *IEEE ICTA 2021*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
+abstract: This paper studies the minimum thermo-tuning resolution for calibrating and steering the 1-D optical phased array (OPA) through simulation and experiment. Through simulation, we determined the factors, including antenna pitch d, wavelength, and calibration procedure, that affect the phase tuning resolution requirement of 1-D OPAs. Simulation results show that the resolution can be reduced to 2 bits without degrading the beam quality. Furthermore, an OPA with 128 antennas is implemented. Experimental results validate that 2 bits resolution is sufficient to calibrate the 1-D OPA with the most power concentrated at the target direction.
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: In this study, we determine the factors that influence the thermo-tuning resolution requirement of 1-D OPAs. The antenna pitch d, wavelength, and antenna number N have just a minor impact, while the calibration procedures have a significant impact on the minimum resolution. Furthermore, we also figure out the minimum phase tuning resolution required for calibrating and controlling 1-D OPAs.Experimental results agree well with our simulation results that 2 bits resolution is sufficient to tune OPAs with specified algorithms. We are optimistic that this finding will reduce the complexity and cost to drive OPAs, promoting the co-design of optical devices and control circuits of OPAs and encouraging the widespread use of OPAs.
 
-tags: []
+tags: [OPA, Driver, Resolution]
 
 # Display this page in the Featured widget?
 featured: true
